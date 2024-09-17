@@ -21,7 +21,94 @@
 
 Работу проверили:
 - к.э.н., доцент Панов М.А.
+Лабараторные задания
+1.
+Код-
+print(123)
+print("123")
+print(1.23)
+Скриншот-
 
-1.2 Установка
+2.
+Код-
+print(1823-400)
+print(5.1+8.27)
+print(3+7.9+1+2.11)
+Скриншот-
 
+3.
+Код-
+print("Привет,Мир!")
+world="Мир"
+print(f"Привет,{world}!")
+one = "Привет,"
+two = "Мир!"
+print (one+two)
+Скриншот-
+
+4.
+Код-
+one = 'Hello'
+print (bool (one))
+
+two = 142
+print(float (two))
+
+three = None
+print (str (three))
+Скриншот-
+
+5.
+Код-
+one = input ('one:')
+two = input ('two:')
+three = input ('three:')
+print (one, two, three)
+Скриншот-
+
+6.
+Код-
+a = 12
+b = 5
+print ("Возведение в степень:", a ** b)
+print ("Обычное деление:",a / b)
+print ("Целочисленное деление:", a // b)
+print( "Нахождение остатка от деления: ",a % b)
+Скриншот-
+
+7.
+Код-
+line = "Hello world!!"
+print(line*6)
+Скриншот-
+
+8.
+Код-
+sentence = "Hello world!!"
+print(sentence.count("o"))
+Скриншот-
+
+9.
+Код-
+print('Hello\nWorld')
+Скриншот-
+
+10.
+Код-
+sentence = "Hello world!!"
+print(sentence[1])
+print(sentence[:5])
+Скриншот-
+
+Самостоятельные задания
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 

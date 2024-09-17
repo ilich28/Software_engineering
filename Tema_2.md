@@ -29,9 +29,7 @@ print(123)
 print("123")
 print(1.23)
 
-Скриншот-
-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/laba2_1.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/laba2_1.png
 
 2.
 Код-
@@ -40,9 +38,7 @@ print(1823-400)
 print(5.1+8.27)
 print(3+7.9+1+2.11)
 
-Скриншот-
-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_2.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_2.png
 
 3.
 Код-
@@ -54,8 +50,7 @@ one = "Привет,"
 two = "Мир!"
 print (one+two)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_3.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_3.png
 
 4.
 Код-
@@ -69,8 +64,7 @@ print(float (two))
 three = None
 print (str (three))
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_4.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_4.png
 
 5.
 Код-
@@ -80,8 +74,7 @@ two = input ('two:')
 three = input ('three:')
 print (one, two, three)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_5.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_5.png
 
 6.
 Код-
@@ -93,8 +86,7 @@ print ("Обычное деление:",a / b)
 print ("Целочисленное деление:", a // b)
 print( "Нахождение остатка от деления: ",a % b)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_6.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_6.png
 
 7.
 Код-
@@ -102,8 +94,7 @@ https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/
 line = "Hello world!!"
 print(line*6)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_7.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_7.png
 
 8.
 Код-
@@ -111,16 +102,13 @@ https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/
 sentence = "Hello world!!"
 print(sentence.count("o"))
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_8.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_8.png
 
 9.
 Код-
-
 print('Hello\nWorld')
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_9.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_9.png
 
 10.
 Код-
@@ -129,8 +117,7 @@ sentence = "Hello world!!"
 print(sentence[1])
 print(sentence[:5])
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_10.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_10.png
 
 
 Самостоятельные задания
@@ -139,24 +126,23 @@ https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/
 
 print(1 == 2)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_1.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_1.png
+
 2.
 Код-
 
 a, b, c = 5, 10, 15
 print(a, b, c)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_2.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_2.png
+
 3.
 Код-
 
 num = int(input())
 print(num)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_3.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_3.png
 
 4.
 Код-
@@ -164,46 +150,45 @@ https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/
 s = 'abc'
 print(s * 6)
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_4.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_4.png
+
 5.
 Код-
 
 day, month, year = 17, "Сентябрь", 2024
 print(f"Сегодня {day} {month} {year}.", end=' Всего хорошего!\n')
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_5.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_5.png
+
 6.
 Код-
 
 print('Hello' + ' ту ' + 'World')
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_6.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_6.png
 
 7.
 Код-
 
 print(len('Hello World'))
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_7.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_7.png
+
 8.
 Код-
 
 print('HELLO WORLD'.lower())
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_8.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_8.png
+
 9.
 Код-
 
 x, y = 3, 4
 print(f"Сумма {x} и {y} равна {x + y}")
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_9.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_9.png
+
 10.
 Код-
 
@@ -211,6 +196,6 @@ str1, str2 = "Hello", "World"
 result = str1 + ' ' + str2
 print(f"Объединённая строка: {result}")
 
-Скриншот-
-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_10.png
+Скриншот-https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Sam2_10.png
+
 

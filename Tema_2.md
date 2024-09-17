@@ -24,20 +24,25 @@
 Лабараторные задания
 1.
 Код-
+
 print(123)
 print("123")
 print(1.23)
 Скриншот-
+
 [Images/laba2_1.png](https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/laba2_1.png)
 
 2.
 Код-
+
 print(1823-400)
 print(5.1+8.27)
 print(3+7.9+1+2.11)
 Скриншот-
 
-3.
+https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/Laba2_2.png
+
+4.
 Код-
 print("Привет,Мир!")
 world="Мир"
@@ -47,7 +52,7 @@ two = "Мир!"
 print (one+two)
 Скриншот-
 
-4.
+5.
 Код-
 one = 'Hello'
 print (bool (one))

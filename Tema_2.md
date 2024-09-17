@@ -28,7 +28,7 @@ print(123)
 print("123")
 print(1.23)
 Скриншот-
-Images/laba2_1.png
+[Images/laba2_1.png](https://github.com/ilich28/Software_engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/Images/laba2_1.png)
 
 2.
 Код-

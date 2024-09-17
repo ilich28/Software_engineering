@@ -28,6 +28,7 @@ print(123)
 print("123")
 print(1.23)
 Скриншот-
+Images/laba2_1.png
 
 2.
 Код-
